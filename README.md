@@ -1,5 +1,5 @@
 # SM23-IoT03
-*****************8
+***
 ## RESULT
 ![SM23-IoT04ppic](https://github.com/iFatma2/SM23-IoT03/assets/139279448/62e32ea2-5716-465f-99ce-8240aedb631e)
 
